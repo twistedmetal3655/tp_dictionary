@@ -161,14 +161,15 @@ record
 website
 red
 reddish
-located at
-present at
+located
+present
 real
 true
 existing
 arm
 hand
-tactile organ
+tactile
+organ
 five
 eye
 look
@@ -202,7 +203,8 @@ savings
 wealth
 woman
 female
-feminine person; wife
+feminine person
+wife
 I
 me
 we
@@ -278,7 +280,6 @@ botched
 broken
 damaged
 harmed
-messed up
 do
 work
 build
@@ -354,14 +355,13 @@ boundary
 what
 which
 above
-highest part
-something elevated
+high
+elevated
 awe-inspiring
 divine
 sacred
 supernatural
 body
-physical state
 torso
 round
 ball
@@ -391,7 +391,7 @@ wise
 information
 animal
 beast
-land mammal
+mammal
 big
 heavy
 large
